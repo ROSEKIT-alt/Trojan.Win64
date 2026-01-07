@@ -1,2 +1,2 @@
 # Trojan.Win64
-just a bunch of stuff i made
+C0PP3R have 5 Payloads without bytebeat, sorry :(
